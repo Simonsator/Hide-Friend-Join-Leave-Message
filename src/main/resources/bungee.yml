@@ -1,0 +1,6 @@
+name: Hide-Online-Status-Changed
+version: ${project.version}
+author: Simonsator
+depends: [PartyAndFriends]
+main: de.simonsator.partyandfriends.hfjlm.HFJLMMain
+description: An add-on for party and friends to hide the online status changed message
